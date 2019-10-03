@@ -1,0 +1,28 @@
+#body {
+    background-color: lightgray;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2 {
+    padding-left: 10px;
+}
+
+.container {
+    margin-top: 50px;
+    background-color: white;
+}
+
+#password {
+  width: 95%;
+  padding-left: 20px;
+  height: 300px;
+  text-align: center;
+}
+
+#copy {
+    float: right;
+}
